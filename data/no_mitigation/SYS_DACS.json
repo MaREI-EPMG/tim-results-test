@@ -1,0 +1,14 @@
+{
+  "name": "mitigation_wam",
+  "data": [
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [
+        [
+          2050,
+          1.04085953831426e-08
+        ]
+      ]
+    }
+  ]
+}
