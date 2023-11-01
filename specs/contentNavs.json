@@ -1,0 +1,62 @@
+[
+  {
+    "path": "*",
+    "links": [
+      { "to": "overview", "text": "Overview" },
+      { "to": "supply", "text": "Supply" },
+      { "to": "power", "text": "Power" },
+      { "to": "transport", "text": "Transport" },
+      { "to": "residential", "text": "Residential" },
+      { "to": "services", "text": "Services" },
+      { "to": "industry", "text": "Industry" },
+      { "to": "agriculture", "text": "Agriculture" }
+    ],
+    "variant": "tabs"
+  },
+  {
+    "path": "overview/*",
+    "links": [
+      {
+        "to": "emissions-and-cost",
+        "text": "Emissions and cost"
+      },
+      {
+        "to": "final-energy-consumption",
+        "text": "Final energy consumption"
+      },
+      { "to": "primary-energy", "text": "Primary energy" },
+      { "to": "other", "text": "Other" }
+    ],
+    "variant": "underscore"
+  },
+  {
+    "path": "transport/*",
+    "links": [
+      { "to": "overview", "text": "Overview" },
+      {
+        "to": "final-energy-consumption",
+        "text": "Final energy consumption"
+      },
+      {
+        "to": "vehicle-sales-and-stock",
+        "text": "Vehicle sales and stock by mode"
+      },
+      { "to": "vehicle-activity", "text": "Vehicle activity" }
+    ],
+    "variant": "underscore"
+  },
+  {
+    "path": "residential/*",
+    "links": [
+      { "to": "overview", "text": "Overview" },
+      {
+        "to": "final-energy-consumption",
+        "text": "Final energy consumption"
+      },
+      { "to": "retrofits", "text": "Retrofits" },
+      { "to": "new-heating", "text": "New heating by type" },
+      { "to": "house-stock", "text": "House stock" }
+    ],
+    "variant": "underscore"
+  }
+]

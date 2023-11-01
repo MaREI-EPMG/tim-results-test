@@ -1,0 +1,10 @@
+[
+  {
+    "name": "no_mitigation",
+    "variants": [{ "name": "no_mitigation", "specs": null }]
+  },
+  {
+    "name": "no_mitigation",
+    "variants": [{ "name": "no_mitigation", "specs": null }]
+  }
+]
