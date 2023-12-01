@@ -1,4 +1,6 @@
 {
   "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "mitigation_cb-300mt-led~0001": "CB-300-overshoot-0"
+  "mitigation_cb-300mt-led~0002": "CB-300-overshoot-2,5"
+  "mitigation_cb-300mt-led~0003": "CB-300-overshoot-5"
 }
