@@ -1,3 +1,3 @@
-# Energy Study
+# Sandbox for testing different new features and corrections into the model structure and results check
 
-Text about the study...
+##This page is intended to be used only for the model development test pruposes

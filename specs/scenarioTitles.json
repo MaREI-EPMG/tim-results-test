@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "mitigation_cb-315mt~0001": "mitigation_cb-315mt~0001",
   "mitigation_cb-315mt~0002": "mitigation_cb-315mt~0002",
   "mitigation_cb-315mt~0003": "mitigation_cb-315mt~0003",
@@ -26,3 +27,10 @@
   "mitigation_cb-400mt~0012": "mitigation_cb-400mt~0012",
   "mitigation_cb-400mt~0013": "mitigation_cb-400mt~0013"
 }
+=======
+  "no_mitigation": "No Mitigation",
+  "mitigation_cb-300mt-led~0001": "CB-300-overshoot-0"
+  "mitigation_cb-300mt-led~0002": "CB-300-overshoot-2,5"
+  "mitigation_cb-300mt-led~0003": "CB-300-overshoot-5"
+}
+>>>>>>> 7e755cb9db276bb8b3b4025e2cb8f58c161c238c
