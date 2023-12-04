@@ -9,7 +9,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "name": "mitigation_cb-315mt~0002",
     "variants": [
       {
@@ -233,19 +232,5 @@
         "specs": null
       }
     ]
-=======
-    "name": "mitigation_cb-300mt-led~0001",
-    "variants": [{ "name": "mitigation_cb-300mt-led~0001", "specs": null }]
-  }
-  ,
-  {
-    "name": "mitigation_cb-300mt-led~0002",
-    "variants": [{ "name": "mitigation_cb-300mt-led~0002", "specs": null }]
-  }
-  ,
-  {
-    "name": "mitigation_cb-300mt-led~0003",
-    "variants": [{ "name": "mitigation_cb-300mt-led~0003", "specs": null }]
->>>>>>> 7e755cb9db276bb8b3b4025e2cb8f58c161c238c
   }
 ]
