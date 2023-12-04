@@ -1,10 +1,236 @@
 [
   {
-    "name": "no_mitigation",
-    "variants": [{ "name": "no_mitigation", "specs": null }]
+    "name": "mitigation_cb-315mt~0001",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0001",
+        "specs": null
+      }
+    ]
   },
   {
-    "name": "no_mitigation",
-    "variants": [{ "name": "no_mitigation", "specs": null }]
+    "name": "mitigation_cb-315mt~0002",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0002",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0003",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0003",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0004",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0004",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0005",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0005",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0006",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0006",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0007",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0007",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0008",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0008",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0009",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0009",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0010",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0010",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0011",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0011",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0012",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0012",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-315mt~0013",
+    "variants": [
+      {
+        "name": "mitigation_cb-315mt~0013",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0001",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0001",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0002",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0002",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0003",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0003",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0004",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0004",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0005",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0005",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0006",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0006",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0007",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0007",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0008",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0008",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0009",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0009",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0010",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0010",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0011",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0011",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0012",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0012",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb-400mt~0013",
+    "variants": [
+      {
+        "name": "mitigation_cb-400mt~0013",
+        "specs": null
+      }
+    ]
   }
 ]
