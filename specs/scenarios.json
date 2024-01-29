@@ -1,251 +1,38 @@
 [
   {
-    "name": "mitigation_cb-315mt~0001",
+    "name": "mitigation_cb",
     "variants": [
       {
-        "name": "mitigation_cb-315mt~0001",
+        "name": "mitigation_cb",
         "specs": null
       }
     ]
   },
   {
-<<<<<<< HEAD
-    "name": "mitigation_cb-315mt~0002",
+    "name": "mitigation_sectoralcbs",
     "variants": [
       {
-        "name": "mitigation_cb-315mt~0002",
+        "name": "mitigation_sectoralcbs",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb-315mt~0003",
+    "name": "mitigation_sectoralcbs-led_halfway",
     "variants": [
       {
-        "name": "mitigation_cb-315mt~0003",
+        "name": "mitigation_sectoralcbs-led_halfway",
         "specs": null
       }
     ]
   },
   {
-    "name": "mitigation_cb-315mt~0004",
+    "name": "mitigation_sectoralcbs-techoptimism",
     "variants": [
       {
-        "name": "mitigation_cb-315mt~0004",
+        "name": "mitigation_sectoralcbs-techoptimism",
         "specs": null
       }
     ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0005",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0005",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0006",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0006",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0007",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0007",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0008",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0008",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0009",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0009",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0010",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0010",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0011",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0011",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0012",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0012",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-315mt~0013",
-    "variants": [
-      {
-        "name": "mitigation_cb-315mt~0013",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0001",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0001",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0002",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0002",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0003",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0003",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0004",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0004",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0005",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0005",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0006",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0006",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0007",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0007",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0008",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0008",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0009",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0009",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0010",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0010",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0011",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0011",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0012",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0012",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_cb-400mt~0013",
-    "variants": [
-      {
-        "name": "mitigation_cb-400mt~0013",
-        "specs": null
-      }
-    ]
-=======
-    "name": "mitigation_cb-300mt-led~0001",
-    "variants": [{ "name": "mitigation_cb-300mt-led~0001", "specs": null }]
-  }
-  ,
-  {
-    "name": "mitigation_cb-300mt-led~0002",
-    "variants": [{ "name": "mitigation_cb-300mt-led~0002", "specs": null }]
-  }
-  ,
-  {
-    "name": "mitigation_cb-300mt-led~0003",
-    "variants": [{ "name": "mitigation_cb-300mt-led~0003", "specs": null }]
->>>>>>> 7e755cb9db276bb8b3b4025e2cb8f58c161c238c
   }
 ]
